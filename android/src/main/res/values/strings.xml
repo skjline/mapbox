@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">mapbox</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="search_title">Address</string>
+    <string name="search_control">Controls searching</string>
+
+    <string name="access_token" translatable="false">@string/get_your_access_token</string>
+</resources>
